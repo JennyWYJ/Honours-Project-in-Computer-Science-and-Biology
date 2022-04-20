@@ -1,3 +1,5 @@
+# This program serves to display the CN neurons from our dataset into a 3D rendering of a sagittal cerebellar slice in Brainrender.
+
 import random
 from tkinter import W
 
