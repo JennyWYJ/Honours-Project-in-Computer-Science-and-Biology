@@ -1,3 +1,5 @@
+# This program serves to read the csv file containing the data on our CN neurons. Data is used in both Brainrender and Plotly representations.
+
 import csv as c
 
 file = open("eIPSC_cell_coords_2022_04_02.csv")
