@@ -1,6 +1,6 @@
 # Honours-Project-in-Computer-Science-and-Biology
 
-This repository serves to store the programs and data used for my COMP 402 - Honours Project in Computer Science and Biology course. 
+This repository serves to store the programs, data and results from my COMP 402 - Honours Project in Computer Science and Biology course. 
 
 Code used to produce the 3D visualization models are located within the "3D visualization models" directory. 
 
