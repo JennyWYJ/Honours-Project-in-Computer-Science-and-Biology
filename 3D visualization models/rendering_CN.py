@@ -1,3 +1,5 @@
+# This program serves to render all three CNs in Brainrender to determine their coordinate bounds.
+
 import brainrender as b
 
 cb = 'CB'
